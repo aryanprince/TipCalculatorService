@@ -1,0 +1,7 @@
+C:\Users\aryan\source\repos\TipCalculatorWcfService\TipCalculatorWcfService\bin\TipCalculatorWcfService.dll.config
+C:\Users\aryan\source\repos\TipCalculatorWcfService\TipCalculatorWcfService\bin\TipCalculatorWcfService.dll
+C:\Users\aryan\source\repos\TipCalculatorWcfService\TipCalculatorWcfService\bin\TipCalculatorWcfService.pdb
+C:\Users\aryan\source\repos\TipCalculatorWcfService\TipCalculatorWcfService\obj\Debug\TipCalculatorWcfService.csproj.AssemblyReference.cache
+C:\Users\aryan\source\repos\TipCalculatorWcfService\TipCalculatorWcfService\obj\Debug\TipCalculatorWcfService.csproj.CoreCompileInputs.cache
+C:\Users\aryan\source\repos\TipCalculatorWcfService\TipCalculatorWcfService\obj\Debug\TipCalculatorWcfService.dll
+C:\Users\aryan\source\repos\TipCalculatorWcfService\TipCalculatorWcfService\obj\Debug\TipCalculatorWcfService.pdb
